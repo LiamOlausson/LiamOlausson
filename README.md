@@ -1,5 +1,5 @@
 - Hello I am Liam Olausson a computer science and ITWS student at RPI
-- Im currently learing c
+- I am currently learing c
 - You can reach me at liam.olausson@acurix.com
 - My pronouns are He/Him
 - I enjoy civilization six and reading 
