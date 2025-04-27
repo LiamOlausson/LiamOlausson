@@ -1,8 +1,7 @@
-- Hello I am Liam Olausson a computer science and ITWS student at RPI
-- I am currently learing c
+- Hello I am Liam Olausson a computer science, ITWS, and Math student at RPI
 - You can reach me at liam.olausson@acurix.com
 - My pronouns are He/Him
-- I enjoy civilization six and reading 
+- I enjoy civilization six, reading, DND, and working out. 
 
 <!---
 LiamOlausson/LiamOlausson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
